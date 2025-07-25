@@ -101,18 +101,20 @@ p.note { display: none; }
 }
 
     
+.media-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 .responsive-media {
   width: 100%;
-  max-width: 600px; /* 必要に応じて調整 */
   display: block;
-  margin: 0 auto;
 }
 
 .youtube-wrapper {
   position: relative;
   width: 100%;
-  max-width: 600px; /* .responsive-mediaと揃える */
-  margin: 0 auto;
   padding-bottom: 56.25%; /* 16:9比率 */
   height: 0;
 }
@@ -158,7 +160,8 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
- 
+<div class="media-container">
+
 <h2><span class="yellow">21日のお昼は環状線、ラーメンねぎっこ</span></h2>
 <a href="20250725_001.JPG" target="_blank"><img src="20250725_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250725_002.JPG" target="_blank"><img src="20250725_002.JPG" alt="サンプル画像" class="responsive-media"></a>
@@ -230,7 +233,8 @@ p.note { display: none; }
 <div class="youtube-wrapper">
 <iframe src="https://www.youtube.com/embed/K3CuXhdeKlY?si=yPW9XjXo5Hi18oeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 </div>
-    
+
+ </div>   
     
     <h3><span class="grey">「雪の中で輝くシンデレラ」by まいてゃ</span></h3>
 <h2><a href="https://torokoid.github.io/20250219_chiangrai/maitiyaz.mp3" target="_blank">この文字クリックで再生します<br>下の再生ボタンでも同じ曲をループ再生します</a></h2>
