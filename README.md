@@ -101,28 +101,30 @@ p.note { display: none; }
 }
 
     
-    .responsive-media {
-      width: 100%;
-      max-width: 600px; /* 必要なら調整 */
-      margin: 0 auto;
-      display: block;
-    }
-    .youtube-wrapper {
-      position: relative;
-      width: 100%;
-      padding-bottom: 56.25%; /* 16:9の比率 */
-      height: 0;
-      margin: 0 auto;
-      max-width: 600px; /* 必要なら調整 */
-    }
-    .youtube-wrapper iframe {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      border: none;
-    }
+.responsive-media {
+  width: 100%;
+  max-width: 600px; /* 必要に応じて調整 */
+  display: block;
+  margin: 0 auto;
+}
+
+.youtube-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 600px; /* .responsive-mediaと揃える */
+  margin: 0 auto;
+  padding-bottom: 56.25%; /* 16:9比率 */
+  height: 0;
+}
+
+.youtube-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
     
     
     
@@ -218,7 +220,7 @@ p.note { display: none; }
 <br><br>
 <h2><span class="yellow">今日のBGMは Best Beautiful Love Songs 2025 💖 English Love Songs Playlist 💓Love Songs and Romantic Songs</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-zFz772_1s?si=CEiXoJj3mkp-pc5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<iframe src="https://www.youtube.com/embed/Q-zFz772_1s?si=CEiXoJj3mkp-pc5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 </div>
 
 
@@ -226,7 +228,7 @@ p.note { display: none; }
 <br><br>
 <h2><span class="yellow">もう一つ、7月11日にメタバースで披露されたまいてゃさんの新曲<br>ちょっと音量小さめなのでボリュームあげて下さい</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K3CuXhdeKlY?si=yPW9XjXo5Hi18oeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<iframe src="https://www.youtube.com/embed/K3CuXhdeKlY?si=yPW9XjXo5Hi18oeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 </div>
     
     
