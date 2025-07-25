@@ -183,7 +183,7 @@ p.note { display: none; }
 <h2><span class="yellow">お昼は４号線の丸亀製麺で肉うどん</span></h2>
 <a href="20250725_009.JPG" target="_blank"><img src="20250725_009.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">スマートウオッチは飽きてきたので、G-SHOCKを物色中</span></h2>
+<h2><span class="yellow">スマートウオッチは飽きてきたので、G-SHOCKを物色中<br>スマホ連携して、心拍や睡眠記録できる・・・すでにスマートウオッチ</span></h2>
 <a href="20250725_010.JPG" target="_blank"><img src="20250725_010.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">23日はカンセキのお花売り場<br>真夏の日差しの下でお花達も輝きました</span></h2>
@@ -213,7 +213,7 @@ p.note { display: none; }
 <h2><span class="yellow">最後はメタバースのCluster、お空を飛ぶバイクに乗りました</span></h2>
 <a href="20250725_025.PNG" target="_blank"><img src="20250725_025.PNG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">ちょっとしたバグで他の人をすくい上げちゃいました</span></h2>
+<h2><span class="yellow">ちょっとしたバグで他の人をすくい上げちゃいました<br>すくい上げたのは、このワールドと、このバイクの制作者</span></h2>
 <a href="20250725_026.PNG" target="_blank"><img src="20250725_026.PNG" alt="サンプル画像" class="responsive-media"></a>
 
 
