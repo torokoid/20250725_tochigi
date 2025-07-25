@@ -217,14 +217,17 @@ p.note { display: none; }
 
 <br><br>
 <h2><span class="yellow">今日のBGMは Best Beautiful Love Songs 2025 💖 English Love Songs Playlist 💓Love Songs and Romantic Songs</span></h2>
+<div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q-zFz772_1s?si=CEiXoJj3mkp-pc5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-
+</div>
 
 
     
 <br><br>
 <h2><span class="yellow">もう一つ、7月11日にメタバースで披露されたまいてゃさんの新曲<br>ちょっと音量小さめなのでボリュームあげて下さい</span></h2>
+<div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K3CuXhdeKlY?si=yPW9XjXo5Hi18oeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+</div>
     
     
     <h3><span class="grey">「雪の中で輝くシンデレラ」by まいてゃ</span></h3>
