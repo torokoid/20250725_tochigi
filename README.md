@@ -93,76 +93,10 @@ display: block;
 width: 800px;
 }
 
-/*
+
 @media screen and (min-width: 540px),
 screen and (orientation: landscape) {
 p.note { display: none; }
-}
-*/
- 
-@media screen and (max-width : 767px){
-  /* 基本要素 */
-  img {
-    max-width: 100%;
-  }
-  /* Layout */
-  header,
-  #global_navi,
-  #sidebar,
-  #wrapper{
-    width: 100%;
-  }  
-  /* ヘッダー */
-  header h1 {
-    float: none;
-    text-align: center;
-  }
-  header h1 img {
-    width: 50%;
-  }
-  header #header_contact {
-    display: none;
-  }
-  /* ナビゲーション */
-  #global_navi ul li {
-    width: 50%;
-    padding: 0.5px;
-    margin: 0;
-    box-sizing: border-box;
-  }
-  #global_navi ul li a {
-    margin: 0;
-  }
-  #global_navi ul li:last-child {
-    width: 100%;
-  }
-  /* メイン部分 */
-  #main {
-    width: 100%;
-    padding: 0 5%;
-    box-sizing: border-box;
-  }
-  #main figure {
-    text-align: center;
-  }
-  /* トップページパーツ */
-  #main_visual {
-    width: 100%;
-    height: auto;
-  }
-  #point figure {
-    float: none;
-    margin: 0 0 11px 0;
-  }
-  /* サイドバー */
-  #side_banner ul li {
-    text-align: center;
-    margin: 11px auto;
-  }
-  #side_contact address img {
-    width: 14px;
-    height: 20px;
-  }
 }
 
  
