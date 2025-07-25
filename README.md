@@ -1,5 +1,6 @@
 # 20250725_tochigi
 
+
 <html lang="ja" data-loaded="false" data-scrolled="false" data-spmenu="closed">
 <head>
 
@@ -99,7 +100,32 @@ screen and (orientation: landscape) {
 p.note { display: none; }
 }
 
- 
+    
+    .responsive-media {
+      width: 100%;
+      max-width: 600px; /* 必要なら調整 */
+      margin: 0 auto;
+      display: block;
+    }
+    .youtube-wrapper {
+      position: relative;
+      width: 100%;
+      padding-bottom: 56.25%; /* 16:9の比率 */
+      height: 0;
+      margin: 0 auto;
+      max-width: 600px; /* 必要なら調整 */
+    }
+    .youtube-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+    
+    
+    
 </style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
@@ -123,7 +149,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/07/21-24、お昼のラーメンからお花屋さんのお花達まで!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/07/25、お昼のラーメンからお花屋さんのお花達まで!!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -132,58 +158,58 @@ p.note { display: none; }
 
  
 <h2><span class="yellow">21日のお昼は環状線、ラーメンねぎっこ</span></h2>
-<a href="20250725_001.JPG" target="_blank"><img src="20250725_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250725_002.JPG" target="_blank"><img src="20250725_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250725_001.JPG" target="_blank"><img src="20250725_001.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250725_002.JPG" target="_blank"><img src="20250725_002.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">夕焼け空は見事でした</span></h2>
-<a href="20250725_003.JPG" target="_blank"><img src="20250725_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250725_003.JPG" target="_blank"><img src="20250725_003.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">22日はゆうちょダイレクトの登録でいろいろ試しましたが、エラーで作動せず<br>郵便局でこの画像見せても原因わからず</span></h2>
-<a href="20250725_004.JPG" target="_blank"><img src="20250725_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250725_004.JPG" target="_blank"><img src="20250725_004.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">うちの猫犬は完全にまったり</span></h2>
-<a href="20250725_005.JPG" target="_blank"><img src="20250725_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250725_006.JPG" target="_blank"><img src="20250725_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250725_007.JPG" target="_blank"><img src="20250725_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250725_005.JPG" target="_blank"><img src="20250725_005.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250725_006.JPG" target="_blank"><img src="20250725_006.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250725_007.JPG" target="_blank"><img src="20250725_007.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">午後は久しぶりの宇都宮市役所、外国人の姿が目立ちます</span></h2>
-<a href="20250725_008.JPG" target="_blank"><img src="20250725_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250725_008.JPG" target="_blank"><img src="20250725_008.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">お昼は４号線の丸亀製麺で肉うどん</span></h2>
-<a href="20250725_009.JPG" target="_blank"><img src="20250725_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250725_009.JPG" target="_blank"><img src="20250725_009.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">スマートウオッチは飽きてきたので、G-SHOCKを物色中<br>スマホ連携して心拍や睡眠の記録まで取れる・・・すでにスマートウオッチ！？</span></h2>
-<a href="20250725_010.JPG" target="_blank"><img src="20250725_010.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">スマートウオッチは飽きてきたので、G-SHOCKを物色中</span></h2>
+<a href="20250725_010.JPG" target="_blank"><img src="20250725_010.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">23日はカンセキのお花売り場<br>真夏の日差しの下でお花達も輝きました</span></h2>
-<a href="20250725_011.JPG" target="_blank"><img src="20250725_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250725_012.JPG" target="_blank"><img src="20250725_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250725_013.JPG" target="_blank"><img src="20250725_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250725_014.JPG" target="_blank"><img src="20250725_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250725_015.JPG" target="_blank"><img src="20250725_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250725_011.JPG" target="_blank"><img src="20250725_011.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250725_012.JPG" target="_blank"><img src="20250725_012.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250725_013.JPG" target="_blank"><img src="20250725_013.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250725_014.JPG" target="_blank"><img src="20250725_014.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250725_015.JPG" target="_blank"><img src="20250725_015.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">お昼はFKDで海鮮丼</span></h2>
-<a href="20250725_016.JPG" target="_blank"><img src="20250725_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250725_016.JPG" target="_blank"><img src="20250725_016.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">夜のお花はドリームかわちプール入り口のお花達</span></h2>
-<a href="20250725_017.JPG" target="_blank"><img src="20250725_017.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250725_018.JPG" target="_blank"><img src="20250725_018.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250725_019.JPG" target="_blank"><img src="20250725_019.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250725_020.JPG" target="_blank"><img src="20250725_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250725_017.JPG" target="_blank"><img src="20250725_017.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250725_018.JPG" target="_blank"><img src="20250725_018.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250725_019.JPG" target="_blank"><img src="20250725_019.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250725_020.JPG" target="_blank"><img src="20250725_020.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">24日は免許手続で鹿沼の運転免許センター</span></h2>
-<a href="20250725_021.JPG" target="_blank"><img src="20250725_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250725_021.JPG" target="_blank"><img src="20250725_021.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">スーパーのお花達も元気です</span></h2>
-<a href="20250725_022.JPG" target="_blank"><img src="20250725_022.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250725_023.JPG" target="_blank"><img src="20250725_023.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250725_024.JPG" target="_blank"><img src="20250725_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250725_022.JPG" target="_blank"><img src="20250725_022.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250725_023.JPG" target="_blank"><img src="20250725_023.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250725_024.JPG" target="_blank"><img src="20250725_024.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">最後はメタバースのCluster、お空を飛ぶバイクに乗りました</span></h2>
-<a href="20250725_025.PNG" target="_blank"><img src="20250725_025.PNG" alt="サンプル画像" width="900" /></a>
+<a href="20250725_025.PNG" target="_blank"><img src="20250725_025.PNG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">ちょっとしたバグで他の人をすくい上げちゃいました<br>すくいあげたのは、なんとこのワールドと、このバイクの制作者「ぷらむさん」</span></h2>
-<a href="20250725_026.PNG" target="_blank"><img src="20250725_026.PNG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">ちょっとしたバグで他の人をすくい上げちゃいました</span></h2>
+<a href="20250725_026.PNG" target="_blank"><img src="20250725_026.PNG" alt="サンプル画像" class="responsive-media"></a>
 
 
 <br><br><br><br><br><br><br><br><br>
