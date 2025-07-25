@@ -93,12 +93,24 @@ display: block;
 width: 800px;
 }
 
-
+/*
 @media screen and (min-width: 540px),
 screen and (orientation: landscape) {
 p.note { display: none; }
 }
+*/
 
+@media screen and (max-width : 767px){
+   img {
+    max-width: 100%
+  }
+  header,
+  #global_navi,
+  #sidebar,
+  #wrapper{
+    width: 100%;
+  }
+ 
 </style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
