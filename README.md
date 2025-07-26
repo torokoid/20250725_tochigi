@@ -183,8 +183,8 @@ p.note { display: none; }
 <h2><span class="yellow">お昼は４号線の丸亀製麺で肉うどん</span></h2>
 <a href="20250725_009.JPG" target="_blank"><img src="20250725_009.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">スマートウオッチは飽きてきたので、G-SHOCKを物色中<br>スマホ連携して、心拍や睡眠記録できる・・・すでにスマートウオッチ</span></h2>
-<a href="20250725_010.JPG" target="_blank"><img src="20250725_010.JPG" alt="サンプル画像" class="responsive-media"></a>
+<h2><span class="yellow">スマートウオッチは飽きてきたので、G-SHOCKを物色中<br>スマホ連携して、心拍や睡眠記録できる・・・すでにスマートウオッチ<br>画像クリックでカシオのHPに飛びます↓</span></h2>
+<a href="https://www.casio.com/jp/watches/gshock/product.DW-H5600-1/" target="_blank"><img src="20250725_010.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">23日はカンセキのお花売り場<br>真夏の日差しの下でお花達も輝きました</span></h2>
 <a href="20250725_011.JPG" target="_blank"><img src="20250725_011.JPG" alt="サンプル画像" class="responsive-media"></a>
