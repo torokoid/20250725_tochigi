@@ -213,7 +213,7 @@ p.note { display: none; }
 <h2><span class="yellow">最後はメタバースのCluster、お空を飛ぶバイクに乗りました</span></h2>
 <a href="20250725_025.PNG" target="_blank"><img src="20250725_025.PNG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">ちょっとしたバグで他の人をすくい上げちゃいました<br>すくい上げたのは、このワールドと、このバイクの制作者</span></h2>
+<h2><span class="yellow">ちょっとしたバグで他の人をすくい上げちゃいました<br>すくい上げたのは、このワールドと、このバイクの制作者のぷらむさん</span></h2>
 <a href="20250725_026.PNG" target="_blank"><img src="20250725_026.PNG" alt="サンプル画像" class="responsive-media"></a>
 
 
